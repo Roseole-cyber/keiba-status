@@ -1,6 +1,6 @@
 # keiba system status
 
-generated_at: 2026-08-17T22:53:39 (JST)
+generated_at: 2026-08-17T22:54:23 (JST)
 STATUS: WARN
 
 ## collection
@@ -13,8 +13,8 @@ nonempty_files: 317
 latest_racecard_date: 20260817
 
 ## push
-autopush_log_mtime: 2026-08-17T21:30:03
-hours_since_push_log: 1.4
+autopush_log_mtime: 2026-08-17T22:53:41
+hours_since_push_log: 0.0
 autopush_last_result: (no push line found)
 
 ## evaluation
