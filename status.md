@@ -1,19 +1,19 @@
 # keiba system status
 
-generated_at: 2026-08-17T22:54:23 (JST)
-STATUS: WARN
+generated_at: 2026-08-18T21:30:04 (JST)
+STATUS: OK
 
 ## collection
-latest_snapshot_date: 20260817
-latest_snapshot_count: 319
-latest_snapshot_mtime: 2026-08-17T21:58:17
-days_since_latest: 0.04
-max_gap_minutes: 204
-nonempty_files: 317
-latest_racecard_date: 20260817
+latest_snapshot_date: 20260818
+latest_snapshot_count: 408
+latest_snapshot_mtime: 2026-08-18T21:29:08
+days_since_latest: 0.0
+max_gap_minutes: 2
+nonempty_files: 369
+latest_racecard_date: 20260818
 
 ## push
-autopush_log_mtime: 2026-08-17T22:53:41
+autopush_log_mtime: 2026-08-18T21:30:04
 hours_since_push_log: 0.0
 autopush_last_result: (no push line found)
 
@@ -31,7 +31,7 @@ top3_d_r2_test:
   tr_form                +0.0002
 
 ## issues
-WARN: 同日中に 204 分の空白 (watchが一時停止した疑い)
+(none)
 
 ---
 判定ライン: >=0.0178 Benter水準 / >=0.010 有望 / >=0.005 弱い / <0.005 中止ライン / <=0.001 捨てる
