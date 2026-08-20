@@ -1,19 +1,19 @@
 # keiba system status
 
-generated_at: 2026-08-19T21:30:05 (JST)
+generated_at: 2026-08-20T21:30:05 (JST)
 STATUS: OK
 
 ## collection
-latest_snapshot_date: 20260819
-latest_snapshot_count: 408
-latest_snapshot_mtime: 2026-08-19T21:29:09
-days_since_latest: 0.0
-max_gap_minutes: 2
-nonempty_files: 408
-latest_racecard_date: 20260819
+latest_snapshot_date: 20260821
+latest_snapshot_count: 2
+latest_snapshot_mtime: 2026-08-20T21:00:07
+days_since_latest: 0.02
+max_gap_minutes: 62
+nonempty_files: 2
+latest_racecard_date: 20260821
 
 ## push
-autopush_log_mtime: 2026-08-19T21:30:05
+autopush_log_mtime: 2026-08-20T21:30:05
 hours_since_push_log: 0.0
 autopush_last_result: (no push line found)
 
