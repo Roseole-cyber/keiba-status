@@ -1,34 +1,36 @@
 # keiba system status
 
-generated_at: 2026-09-03T21:30:07 (JST)
+generated_at: 2026-09-05T19:44:07 (JST)
 STATUS: OK
 
 ## collection
-latest_snapshot_date: 20260904
+latest_snapshot_date: 20260905
 latest_snapshot_count: 1
-latest_snapshot_mtime: 2026-09-03T20:46:27
-days_since_latest: 0.03
+latest_snapshot_mtime: 2026-09-05T19:43:44
+days_since_latest: 0.0
 max_gap_minutes: 0
 nonempty_files: 1
-latest_racecard_date: 20260904
+latest_racecard_date: 20260905
 
 ## push
-autopush_log_mtime: 2026-09-03T21:30:06
+autopush_log_mtime: 2026-09-05T19:44:06
 hours_since_push_log: 0.0
-autopush_last_result: [2026-09-03 21:30:06] push OK
+autopush_last_result: [2026-09-05 19:44:06] push OK
 
 ## evaluation
-last_run_at: 2026-08-17T10:35:27Z
-last_run_tag: nar_batch2_rotation_human
-races_train: 4728
-races_test: 1698
-market_r2_test: 0.307117
-total_runs_recorded: 3
-max_d_r2_test: 0.000281
+pipeline_result_mtime: 2026-09-03T21:33:07
+verdict: No-Go継続 (最大ΔR²test=0.0010) [best=finish_last_inv]
+last_run_at: 2026-09-03T12:33:07Z
+last_run_tag: monthly_auto
+races_train: 5974
+races_test: 1204
+market_r2_test: 0.327289
+total_runs_recorded: 4
+max_d_r2_test: 0.001037
 top3_d_r2_test:
-  finish_last_inv        +0.0003
-  clogit_v1              +0.0002
-  tr_form                +0.0002
+  finish_last_inv        +0.0010
+  ag3_kick               +0.0006
+  bw_diff                +0.0004
 
 ## issues
 (none)
