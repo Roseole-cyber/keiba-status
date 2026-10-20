@@ -1,21 +1,21 @@
 # keiba system status
 
-generated_at: 2026-10-17T19:02:17 (JST)
-STATUS: OK
+generated_at: 2026-10-20T22:58:35 (JST)
+STATUS: WARN
 
 ## collection
-latest_snapshot_date: 20261017
-latest_snapshot_count: 4
-latest_snapshot_mtime: 2026-10-17T19:01:09
-days_since_latest: 0.0
-max_gap_minutes: 2
-nonempty_files: 4
-latest_racecard_date: 20261018
+latest_snapshot_date: 20261018
+latest_snapshot_count: 3
+latest_snapshot_mtime: 2026-10-17T21:01:08
+days_since_latest: 3.08
+max_gap_minutes: 61
+nonempty_files: 3
+latest_racecard_date: 20261020
 
 ## push
-autopush_log_mtime: 2026-10-17T19:02:16
+autopush_log_mtime: 2026-10-20T22:58:34
 hours_since_push_log: 0.0
-autopush_last_result: [2026-10-17 19:02:16] push OK
+autopush_last_result: [2026-10-20 22:58:34] push OK
 
 ## evaluation
 pipeline_result_mtime: 2026-10-04T11:38:25
@@ -33,7 +33,7 @@ top3_d_r2_test:
   ag3_kick               +0.0006
 
 ## issues
-(none)
+WARN: 最新スナップショットが 3.1 日前 (収集が止まっている疑い)
 
 ---
 判定ライン: >=0.0178 Benter水準 / >=0.010 有望 / >=0.005 弱い / <0.005 中止ライン / <=0.001 捨てる
