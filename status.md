@@ -1,21 +1,21 @@
 # keiba system status
 
-generated_at: 2026-11-04T21:30:04 (JST)
+generated_at: 2026-11-05T21:30:05 (JST)
 STATUS: OK
 
 ## collection
-latest_snapshot_date: 20261105
+latest_snapshot_date: 20261106
 latest_snapshot_count: 14
-latest_snapshot_mtime: 2026-11-04T21:01:42
+latest_snapshot_mtime: 2026-11-05T21:01:07
 days_since_latest: 0.02
-max_gap_minutes: 70
-nonempty_files: 14
-latest_racecard_date: 20261105
+max_gap_minutes: 61
+nonempty_files: 13
+latest_racecard_date: 20261106
 
 ## push
-autopush_log_mtime: 2026-11-04T21:30:04
+autopush_log_mtime: 2026-11-05T21:30:05
 hours_since_push_log: 0.0
-autopush_last_result: [2026-11-04 21:30:04] push OK
+autopush_last_result: [2026-11-05 21:30:05] push OK
 
 ## evaluation
 pipeline_result_mtime: 2026-11-03T04:37:36
