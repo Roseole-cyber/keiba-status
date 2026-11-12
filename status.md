@@ -1,36 +1,36 @@
 # keiba system status
 
-generated_at: 2026-11-11T21:30:05 (JST)
+generated_at: 2026-11-12T21:30:04 (JST)
 STATUS: OK
 
 ## collection
-latest_snapshot_date: 20261112
-latest_snapshot_count: 13
-latest_snapshot_mtime: 2026-11-11T20:02:25
-days_since_latest: 0.06
+latest_snapshot_date: 20261113
+latest_snapshot_count: 14
+latest_snapshot_mtime: 2026-11-12T21:00:08
+days_since_latest: 0.02
 max_gap_minutes: 61
-nonempty_files: 13
-latest_racecard_date: 20261112
+nonempty_files: 14
+latest_racecard_date: 20261113
 
 ## push
-autopush_log_mtime: 2026-11-11T21:30:05
+autopush_log_mtime: 2026-11-12T21:30:04
 hours_since_push_log: 0.0
-autopush_last_result: [2026-11-11 21:30:05] push OK
+autopush_last_result: [2026-11-12 21:30:04] push OK
 
 ## evaluation
-pipeline_result_mtime: 2026-11-03T04:37:36
-verdict: No-Go継続 (最大ΔR²test=0.0012) [best=finish_last_inv]
-last_run_at: 2026-11-02T19:37:36Z
+pipeline_result_mtime: 2026-11-11T21:34:06
+verdict: No-Go継続 (最大ΔR²test=0.0009) [best=ctrl_market_pi]
+last_run_at: 2026-11-11T12:34:06Z
 last_run_tag: monthly_auto
 races_train: 8305
-races_test: 1338
-market_r2_test: 0.34727
-total_runs_recorded: 6
-max_d_r2_test: 0.001229
+races_test: 1682
+market_r2_test: 0.356045
+total_runs_recorded: 7
+max_d_r2_test: 0.000925
 top3_d_r2_test:
-  finish_last_inv        +0.0012
   ctrl_market_pi         +0.0009
-  clogit_v1              +0.0002
+  finish_last_inv        +0.0009
+  pace_fit               +0.0001
 
 ## issues
 (none)
